@@ -1,0 +1,422 @@
+[
+  {
+    "bracketId": 1927874,
+    "bracketName": "Overall",
+    "bracketRankType": "CHIP",
+    "bracketTag": "ALL",
+    "bracketType": "OPEN",
+    "courseId": 2261827,
+    "eventCourseId": 2248652,
+    "eventCourseName": "",
+    "eventId": 1018673,
+    "hasPace": false,
+    "interval": {
+      "distance": {
+        "distanceInMeters": 161578,
+        "distanceUnit": "m"
+      },
+      "intervalFull": true,
+      "intervalId": 0,
+      "intervalName": "latest",
+      "intervalOrder": 1,
+      "intervalRaceType": "run",
+      "intervalResults": [
+        {
+          "age": 33,
+          "bib": "1",
+          "country": "US",
+          "displayName": "Adrian Macdonald",
+          "entryId": 491082777,
+          "entryStatus": "CONF",
+          "entryType": "IND",
+          "firstName": "Adrian",
+          "gender": "M",
+          "genderRank": 1,
+          "intervalName": "Full Course",
+          "intervalOrder": 1,
+          "intervalRaceType": "running",
+          "lastName": "Macdonald",
+          "locality": "Fort Collins",
+          "overallRank": 1,
+          "pace": {
+            "distance": {
+              "distanceInMeters": 161578,
+              "distanceUnit": "mi"
+            },
+            "time": {
+              "timeInMillis": 57944000,
+              "timeUnit": "m"
+            },
+            "paceType": "pace"
+          },
+          "postalCode": "80524",
+          "primaryBracketRank": 1,
+          "racerId": 0,
+          "region": "Colorado",
+          "regionId": "Colorado",
+          "thirdPartyEntryId": 57710353,
+          "time": {
+            "timeInMillis": 57944000,
+            "timeUnit": "m"
+          }
+        },
+        {
+          "age": 28,
+          "bib": "142",
+          "country": "US",
+          "displayName": "JP Giblin",
+          "entryId": 491082796,
+          "entryStatus": "CONF",
+          "entryType": "IND",
+          "firstName": "JP",
+          "gender": "M",
+          "genderRank": 2,
+          "intervalName": "Full Course",
+          "intervalOrder": 1,
+          "intervalRaceType": "running",
+          "lastName": "Giblin",
+          "locality": "Boulder",
+          "overallRank": 2,
+          "pace": {
+            "distance": {
+              "distanceInMeters": 161578,
+              "distanceUnit": "mi"
+            },
+            "time": {
+              "timeInMillis": 65270000,
+              "timeUnit": "m"
+            },
+            "paceType": "pace"
+          },
+          "postalCode": "80301",
+          "primaryBracketRank": 2,
+          "racerId": 493353253,
+          "region": "Colorado",
+          "regionId": "Colorado",
+          "thirdPartyEntryId": 57710309,
+          "time": {
+            "timeInMillis": 65270000,
+            "timeUnit": "m"
+          }
+        },
+        {
+          "age": 43,
+          "bib": "280",
+          "country": "US",
+          "displayName": "Ryan Kaiser",
+          "entryId": 491082828,
+          "entryStatus": "CONF",
+          "entryType": "IND",
+          "firstName": "Ryan",
+          "gender": "M",
+          "genderRank": 3,
+          "intervalName": "Full Course",
+          "intervalOrder": 1,
+          "intervalRaceType": "running",
+          "lastName": "Kaiser",
+          "locality": "Bend",
+          "overallRank": 3,
+          "pace": {
+            "distance": {
+              "distanceInMeters": 161578,
+              "distanceUnit": "mi"
+            },
+            "time": {
+              "timeInMillis": 66081000,
+              "timeUnit": "m"
+            },
+            "paceType": "pace"
+          },
+          "postalCode": "97703",
+          "primaryBracketRank": 3,
+          "racerId": 0,
+          "region": "Oregon",
+          "regionId": "Oregon",
+          "thirdPartyEntryId": 57710648,
+          "time": {
+            "timeInMillis": 66081000,
+            "timeUnit": "m"
+          }
+        },
+        {
+          "age": 32,
+          "bib": "16",
+          "country": "US",
+          "displayName": "Tyler Andrews",
+          "entryId": 491082709,
+          "entryStatus": "CONF",
+          "entryType": "IND",
+          "firstName": "Tyler",
+          "gender": "M",
+          "genderRank": 4,
+          "intervalName": "Full Course",
+          "intervalOrder": 1,
+          "intervalRaceType": "running",
+          "lastName": "Andrews",
+          "locality": "Concord",
+          "overallRank": 4,
+          "pace": {
+            "distance": {
+              "distanceInMeters": 161578,
+              "distanceUnit": "mi"
+            },
+            "time": {
+              "timeInMillis": 67204000,
+              "timeUnit": "m"
+            },
+            "paceType": "pace"
+          },
+          "postalCode": "1742",
+          "primaryBracketRank": 1,
+          "racerId": 0,
+          "region": "Massachusetts",
+          "regionId": "Massachusetts",
+          "thirdPartyEntryId": 57710454,
+          "time": {
+            "timeInMillis": 67204000,
+            "timeUnit": "m"
+          }
+        },
+        {
+          "age": 38,
+          "bib": "10",
+          "country": "US",
+          "displayName": "Christopher Harrington",
+          "entryId": 491082727,
+          "entryStatus": "CONF",
+          "entryType": "IND",
+          "firstName": "Christopher",
+          "gender": "M",
+          "genderRank": 5,
+          "intervalName": "Full Course",
+          "intervalOrder": 1,
+          "intervalRaceType": "running",
+          "lastName": "Harrington",
+          "locality": "Golden",
+          "overallRank": 5,
+          "pace": {
+            "distance": {
+              "distanceInMeters": 161578,
+              "distanceUnit": "mi"
+            },
+            "time": {
+              "timeInMillis": 67508000,
+              "timeUnit": "m"
+            },
+            "paceType": "pace"
+          },
+          "postalCode": "80401",
+          "primaryBracketRank": 2,
+          "racerId": 0,
+          "region": "Colorado",
+          "regionId": "Colorado",
+          "thirdPartyEntryId": 57710167,
+          "time": {
+            "timeInMillis": 67508000,
+            "timeUnit": "m"
+          }
+        },
+        {
+          "age": 27,
+          "bib": "431",
+          "country": "US",
+          "displayName": "Devon Colegrove",
+          "entryId": 491082676,
+          "entryStatus": "CONF",
+          "entryType": "IND",
+          "firstName": "Devon",
+          "gender": "M",
+          "genderRank": 6,
+          "intervalName": "Full Course",
+          "intervalOrder": 1,
+          "intervalRaceType": "running",
+          "lastName": "Colegrove",
+          "locality": "Loveland",
+          "overallRank": 6,
+          "pace": {
+            "distance": {
+              "distanceInMeters": 161578,
+              "distanceUnit": "mi"
+            },
+            "time": {
+              "timeInMillis": 68628000,
+              "timeUnit": "m"
+            },
+            "paceType": "pace"
+          },
+          "postalCode": "80537",
+          "primaryBracketRank": 1,
+          "racerId": 0,
+          "region": "Colorado",
+          "regionId": "Colorado",
+          "thirdPartyEntryId": 57710171,
+          "time": {
+            "timeInMillis": 68628000,
+            "timeUnit": "m"
+          }
+        },
+        {
+          "age": 40,
+          "bib": "346",
+          "country": "US",
+          "displayName": "Joel Anderson",
+          "entryId": 491082614,
+          "entryStatus": "CONF",
+          "entryType": "IND",
+          "firstName": "Joel",
+          "gender": "M",
+          "genderRank": 7,
+          "intervalName": "Full Course",
+          "intervalOrder": 1,
+          "intervalRaceType": "running",
+          "lastName": "Anderson",
+          "locality": "Leadville",
+          "overallRank": 7,
+          "pace": {
+            "distance": {
+              "distanceInMeters": 161578,
+              "distanceUnit": "mi"
+            },
+            "time": {
+              "timeInMillis": 69012000,
+              "timeUnit": "m"
+            },
+            "paceType": "pace"
+          },
+          "postalCode": "80461",
+          "primaryBracketRank": 1,
+          "racerId": 94475500,
+          "region": "Colorado",
+          "regionId": "Colorado",
+          "thirdPartyEntryId": 57710663,
+          "time": {
+            "timeInMillis": 69012000,
+            "timeUnit": "m"
+          }
+        },
+        {
+          "age": 41,
+          "bib": "470",
+          "country": "US",
+          "displayName": "Joshua Eberly",
+          "entryId": 491082698,
+          "entryStatus": "CONF",
+          "entryType": "IND",
+          "firstName": "Joshua",
+          "gender": "M",
+          "genderRank": 8,
+          "intervalName": "Full Course",
+          "intervalOrder": 1,
+          "intervalRaceType": "running",
+          "lastName": "Eberly",
+          "locality": "Gunnison",
+          "overallRank": 8,
+          "pace": {
+            "distance": {
+              "distanceInMeters": 161578,
+              "distanceUnit": "mi"
+            },
+            "time": {
+              "timeInMillis": 69881000,
+              "timeUnit": "m"
+            },
+            "paceType": "pace"
+          },
+          "postalCode": "81230",
+          "primaryBracketRank": 2,
+          "racerId": 0,
+          "region": "Colorado",
+          "regionId": "Colorado",
+          "thirdPartyEntryId": 57710880,
+          "time": {
+            "timeInMillis": 69881000,
+            "timeUnit": "m"
+          }
+        },
+        {
+          "age": 25,
+          "bib": "634",
+          "country": "US",
+          "displayName": "BRIAN M BABYAK",
+          "entryId": 0,
+          "entryStatus": "CONF",
+          "entryType": "IND",
+          "firstName": "BRIAN",
+          "gender": "M",
+          "genderRank": 9,
+          "intervalName": "Full Course",
+          "intervalOrder": 1,
+          "intervalRaceType": "running",
+          "lastName": "M BABYAK",
+          "locality": "Albuquerque",
+          "overallRank": 9,
+          "pace": {
+            "distance": {
+              "distanceInMeters": 161578,
+              "distanceUnit": "mi"
+            },
+            "time": {
+              "timeInMillis": 69958000,
+              "timeUnit": "m"
+            },
+            "paceType": "pace"
+          },
+          "postalCode": "87111",
+          "primaryBracketRank": 2,
+          "racerId": 0,
+          "region": "New Mexico",
+          "regionId": "New Mexico",
+          "thirdPartyEntryId": 57711262,
+          "time": {
+            "timeInMillis": 69958000,
+            "timeUnit": "m"
+          }
+        },
+        {
+          "age": 31,
+          "bib": "739",
+          "country": "HK",
+          "displayName": "Guillaume Perrot",
+          "entryId": 491082731,
+          "entryStatus": "CONF",
+          "entryType": "IND",
+          "firstName": "Guillaume",
+          "gender": "M",
+          "genderRank": 10,
+          "intervalName": "Full Course",
+          "intervalOrder": 1,
+          "intervalRaceType": "running",
+          "lastName": "Perrot",
+          "locality": "Hong Kong",
+          "overallRank": 10,
+          "pace": {
+            "distance": {
+              "distanceInMeters": 161578,
+              "distanceUnit": "mi"
+            },
+            "time": {
+              "timeInMillis": 70187000,
+              "timeUnit": "m"
+            },
+            "paceType": "pace"
+          },
+          "postalCode": "",
+          "primaryBracketRank": 3,
+          "racerId": 0,
+          "region": "-",
+          "regionId": "-",
+          "thirdPartyEntryId": 57711309,
+          "time": {
+            "timeInMillis": 70187000,
+            "timeUnit": "m"
+          }
+        }
+      ],
+      "intervalType": "course",
+      "isLeg": false
+    },
+    "raceType": "running",
+    "thirdParySystemRaceId": 174469,
+    "totalAthletes": 718
+  }
+]

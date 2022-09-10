@@ -1,0 +1,776 @@
+{
+  "age": 33,
+  "bib": "1",
+  "country": "US",
+  "courseId": 2261827,
+  "displayName": "Adrian Macdonald",
+  "entryId": 491082777,
+  "entryStatus": "CONF",
+  "entryType": "IND",
+  "entryUniqueId": "",
+  "eventCourseId": 2248652,
+  "eventEndTime": {
+    "timeInMillis": 0,
+    "timeZone": ""
+  },
+  "eventId": 1018673,
+  "eventStartTime": {
+    "timeInMillis": 1660989540000,
+    "timeZone": "UTC"
+  },
+  "eventTimeZone": "US/Mountain",
+  "firstName": "Adrian",
+  "gender": "M",
+  "intervals": [
+    {
+      "brackets": [
+        {
+          "bracketName": "Overall",
+          "bracketOrder": 1,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "ALL",
+          "bracketType": "OPEN",
+          "id": 1927874,
+          "isPrimary": false,
+          "rank": 1,
+          "totalAthletes": 368,
+          "totalInBracket": 601
+        },
+        {
+          "bracketName": "Male",
+          "bracketOrder": 11,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "M",
+          "bracketType": "SEX",
+          "id": 1927884,
+          "isPrimary": true,
+          "rank": 1,
+          "totalAthletes": 298,
+          "totalInBracket": 487
+        }
+      ],
+      "chipTime": {
+        "timeInMillis": 57944000,
+        "timeUnit": "m"
+      },
+      "crossingDateTimeInMilliseconds": 1661047543380,
+      "distance": {
+        "distanceInMeters": 161578,
+        "distanceUnit": "mi"
+      },
+      "gunTime": {
+        "timeInMillis": 57944000,
+        "timeUnit": "m"
+      },
+      "intervalFull": true,
+      "intervalId": 424239,
+      "intervalName": "Full Course",
+      "intervalOrder": 1,
+      "intervalRaceType": "running",
+      "intervalType": "course",
+      "mostRecentInterval": true,
+      "pace": {
+        "distance": {
+          "distanceInMeters": 161578,
+          "distanceUnit": "mi"
+        },
+        "time": {
+          "timeInMillis": 57944000,
+          "timeUnit": "m"
+        },
+        "paceType": "pace"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": 57944000,
+        "timeUnit": "m"
+      }
+    },
+    {
+      "brackets": [],
+      "crossingDateTimeInMilliseconds": 0,
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": -1,
+          "distanceUnit": "m"
+        },
+        "time": {
+          "timeInMillis": -1,
+          "timeUnit": "ms"
+        },
+        "paceType": "speed"
+      },
+      "chipTime": {
+        "timeInMillis": -1,
+        "timeUnit": "ms"
+      },
+      "gunTime": {
+        "timeInMillis": -1,
+        "timeUnit": "ms"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": -1,
+        "timeUnit": "ms"
+      },
+      "distance": {
+        "distanceInMeters": 20278,
+        "distanceUnit": "km"
+      },
+      "intervalFull": false,
+      "intervalId": 424240,
+      "intervalName": "12.6mi_Start to May Queen",
+      "intervalOrder": 2,
+      "intervalRaceType": "undefined",
+      "intervalType": "course"
+    },
+    {
+      "brackets": [],
+      "crossingDateTimeInMilliseconds": 0,
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": -1,
+          "distanceUnit": "m"
+        },
+        "time": {
+          "timeInMillis": -1,
+          "timeUnit": "ms"
+        },
+        "paceType": "speed"
+      },
+      "chipTime": {
+        "timeInMillis": -1,
+        "timeUnit": "ms"
+      },
+      "gunTime": {
+        "timeInMillis": -1,
+        "timeUnit": "ms"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": -1,
+        "timeUnit": "ms"
+      },
+      "distance": {
+        "distanceInMeters": 37820,
+        "distanceUnit": "km"
+      },
+      "intervalFull": false,
+      "intervalId": 424241,
+      "intervalName": "23.5mi_Start to Outward Bound OUT",
+      "intervalOrder": 3,
+      "intervalRaceType": "undefined",
+      "intervalType": "course"
+    },
+    {
+      "brackets": [
+        {
+          "bracketName": "Overall",
+          "bracketOrder": 1,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "ALL",
+          "bracketType": "OPEN",
+          "id": 1927874,
+          "isPrimary": false,
+          "rank": 80,
+          "totalAthletes": 674,
+          "totalInBracket": 601
+        },
+        {
+          "bracketName": "Male",
+          "bracketOrder": 11,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "M",
+          "bracketType": "SEX",
+          "id": 1927884,
+          "isPrimary": true,
+          "rank": 71,
+          "totalAthletes": 530,
+          "totalInBracket": 487
+        }
+      ],
+      "chipTime": {
+        "timeInMillis": 17841000,
+        "timeUnit": "m"
+      },
+      "crossingDateTimeInMilliseconds": 1661007440380,
+      "distance": {
+        "distanceInMeters": 47154,
+        "distanceUnit": "mi"
+      },
+      "gunTime": {
+        "timeInMillis": 17841000,
+        "timeUnit": "m"
+      },
+      "intervalFull": false,
+      "intervalId": 424242,
+      "intervalName": "29.3mi_Start to Half Pipe Out",
+      "intervalOrder": 4,
+      "intervalRaceType": "running",
+      "intervalType": "course",
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": 47154,
+          "distanceUnit": "mi"
+        },
+        "time": {
+          "timeInMillis": 17841000,
+          "timeUnit": "m"
+        },
+        "paceType": "pace"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": 17841000,
+        "timeUnit": "m"
+      }
+    },
+    {
+      "brackets": [
+        {
+          "bracketName": "Overall",
+          "bracketOrder": 1,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "ALL",
+          "bracketType": "OPEN",
+          "id": 1927874,
+          "isPrimary": false,
+          "rank": 2,
+          "totalAthletes": 664,
+          "totalInBracket": 601
+        },
+        {
+          "bracketName": "Male",
+          "bracketOrder": 11,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "M",
+          "bracketType": "SEX",
+          "id": 1927884,
+          "isPrimary": true,
+          "rank": 2,
+          "totalAthletes": 525,
+          "totalInBracket": 487
+        }
+      ],
+      "chipTime": {
+        "timeInMillis": 19025000,
+        "timeUnit": "m"
+      },
+      "crossingDateTimeInMilliseconds": 1661008624380,
+      "distance": {
+        "distanceInMeters": 60994,
+        "distanceUnit": "mi"
+      },
+      "gunTime": {
+        "timeInMillis": 19025000,
+        "timeUnit": "m"
+      },
+      "intervalFull": false,
+      "intervalId": 424243,
+      "intervalName": "37.9mi_Start to Twin Lakes Out",
+      "intervalOrder": 5,
+      "intervalRaceType": "running",
+      "intervalType": "course",
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": 60994,
+          "distanceUnit": "mi"
+        },
+        "time": {
+          "timeInMillis": 19025000,
+          "timeUnit": "m"
+        },
+        "paceType": "pace"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": 19025000,
+        "timeUnit": "m"
+      }
+    },
+    {
+      "brackets": [
+        {
+          "bracketName": "Overall",
+          "bracketOrder": 1,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "ALL",
+          "bracketType": "OPEN",
+          "id": 1927874,
+          "isPrimary": false,
+          "rank": 1,
+          "totalAthletes": 597,
+          "totalInBracket": 601
+        },
+        {
+          "bracketName": "Male",
+          "bracketOrder": 11,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "M",
+          "bracketType": "SEX",
+          "id": 1927884,
+          "isPrimary": true,
+          "rank": 1,
+          "totalAthletes": 479,
+          "totalInBracket": 487
+        }
+      ],
+      "chipTime": {
+        "timeInMillis": 24202000,
+        "timeUnit": "m"
+      },
+      "crossingDateTimeInMilliseconds": 1661013801380,
+      "distance": {
+        "distanceInMeters": 70006,
+        "distanceUnit": "mi"
+      },
+      "gunTime": {
+        "timeInMillis": 24202000,
+        "timeUnit": "m"
+      },
+      "intervalFull": false,
+      "intervalId": 424244,
+      "intervalName": "43.5mi_Start to Hope Pass Out",
+      "intervalOrder": 6,
+      "intervalRaceType": "running",
+      "intervalType": "course",
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": 70006,
+          "distanceUnit": "mi"
+        },
+        "time": {
+          "timeInMillis": 24202000,
+          "timeUnit": "m"
+        },
+        "paceType": "pace"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": 24202000,
+        "timeUnit": "m"
+      }
+    },
+    {
+      "brackets": [
+        {
+          "bracketName": "Overall",
+          "bracketOrder": 1,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "ALL",
+          "bracketType": "OPEN",
+          "id": 1927874,
+          "isPrimary": false,
+          "rank": 1,
+          "totalAthletes": 529,
+          "totalInBracket": 601
+        },
+        {
+          "bracketName": "Male",
+          "bracketOrder": 11,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "M",
+          "bracketType": "SEX",
+          "id": 1927884,
+          "isPrimary": true,
+          "rank": 1,
+          "totalAthletes": 429,
+          "totalInBracket": 487
+        }
+      ],
+      "chipTime": {
+        "timeInMillis": 27630000,
+        "timeUnit": "m"
+      },
+      "crossingDateTimeInMilliseconds": 1661017229380,
+      "distance": {
+        "distanceInMeters": 80467,
+        "distanceUnit": "mi"
+      },
+      "gunTime": {
+        "timeInMillis": 27630000,
+        "timeUnit": "m"
+      },
+      "intervalFull": false,
+      "intervalId": 424245,
+      "intervalName": "50mi_Start to Winfield",
+      "intervalOrder": 7,
+      "intervalRaceType": "running",
+      "intervalType": "course",
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": 80467,
+          "distanceUnit": "mi"
+        },
+        "time": {
+          "timeInMillis": 27630000,
+          "timeUnit": "m"
+        },
+        "paceType": "pace"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": 27630000,
+        "timeUnit": "m"
+      }
+    },
+    {
+      "brackets": [
+        {
+          "bracketName": "Overall",
+          "bracketOrder": 1,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "ALL",
+          "bracketType": "OPEN",
+          "id": 1927874,
+          "isPrimary": false,
+          "rank": 1,
+          "totalAthletes": 442,
+          "totalInBracket": 601
+        },
+        {
+          "bracketName": "Male",
+          "bracketOrder": 11,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "M",
+          "bracketType": "SEX",
+          "id": 1927884,
+          "isPrimary": true,
+          "rank": 1,
+          "totalAthletes": 359,
+          "totalInBracket": 487
+        }
+      ],
+      "chipTime": {
+        "timeInMillis": 32970000,
+        "timeUnit": "m"
+      },
+      "crossingDateTimeInMilliseconds": 1661022569380,
+      "distance": {
+        "distanceInMeters": 90928,
+        "distanceUnit": "mi"
+      },
+      "gunTime": {
+        "timeInMillis": 32970000,
+        "timeUnit": "m"
+      },
+      "intervalFull": false,
+      "intervalId": 424246,
+      "intervalName": "56.5mi_Start to Hope Pass In",
+      "intervalOrder": 8,
+      "intervalRaceType": "running",
+      "intervalType": "course",
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": 90928,
+          "distanceUnit": "mi"
+        },
+        "time": {
+          "timeInMillis": 32970000,
+          "timeUnit": "m"
+        },
+        "paceType": "pace"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": 32970000,
+        "timeUnit": "m"
+      }
+    },
+    {
+      "brackets": [
+        {
+          "bracketName": "Overall",
+          "bracketOrder": 1,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "ALL",
+          "bracketType": "OPEN",
+          "id": 1927874,
+          "isPrimary": false,
+          "rank": 1,
+          "totalAthletes": 406,
+          "totalInBracket": 601
+        },
+        {
+          "bracketName": "Male",
+          "bracketOrder": 11,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "M",
+          "bracketType": "SEX",
+          "id": 1927884,
+          "isPrimary": true,
+          "rank": 1,
+          "totalAthletes": 324,
+          "totalInBracket": 487
+        }
+      ],
+      "chipTime": {
+        "timeInMillis": 35951000,
+        "timeUnit": "m"
+      },
+      "crossingDateTimeInMilliseconds": 1661025550380,
+      "distance": {
+        "distanceInMeters": 100584,
+        "distanceUnit": "mi"
+      },
+      "gunTime": {
+        "timeInMillis": 35951000,
+        "timeUnit": "m"
+      },
+      "intervalFull": false,
+      "intervalId": 424247,
+      "intervalName": "62.5mi_Start to Twin Lakes In",
+      "intervalOrder": 9,
+      "intervalRaceType": "running",
+      "intervalType": "course",
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": 100584,
+          "distanceUnit": "mi"
+        },
+        "time": {
+          "timeInMillis": 35951000,
+          "timeUnit": "m"
+        },
+        "paceType": "pace"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": 35951000,
+        "timeUnit": "m"
+      }
+    },
+    {
+      "brackets": [
+        {
+          "bracketName": "Overall",
+          "bracketOrder": 1,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "ALL",
+          "bracketType": "OPEN",
+          "id": 1927874,
+          "isPrimary": false,
+          "rank": 1,
+          "totalAthletes": 359,
+          "totalInBracket": 601
+        },
+        {
+          "bracketName": "Male",
+          "bracketOrder": 11,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "M",
+          "bracketType": "SEX",
+          "id": 1927884,
+          "isPrimary": true,
+          "rank": 1,
+          "totalAthletes": 290,
+          "totalInBracket": 487
+        }
+      ],
+      "chipTime": {
+        "timeInMillis": 41450000,
+        "timeUnit": "m"
+      },
+      "crossingDateTimeInMilliseconds": 1661031049380,
+      "distance": {
+        "distanceInMeters": 114424,
+        "distanceUnit": "mi"
+      },
+      "gunTime": {
+        "timeInMillis": 41450000,
+        "timeUnit": "m"
+      },
+      "intervalFull": false,
+      "intervalId": 424248,
+      "intervalName": "71.1mi_Start to Half Pipe In",
+      "intervalOrder": 10,
+      "intervalRaceType": "running",
+      "intervalType": "course",
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": 114424,
+          "distanceUnit": "mi"
+        },
+        "time": {
+          "timeInMillis": 41450000,
+          "timeUnit": "m"
+        },
+        "paceType": "pace"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": 41450000,
+        "timeUnit": "m"
+      }
+    },
+    {
+      "brackets": [
+        {
+          "bracketName": "Overall",
+          "bracketOrder": 1,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "ALL",
+          "bracketType": "OPEN",
+          "id": 1927874,
+          "isPrimary": false,
+          "rank": 1,
+          "totalAthletes": 383,
+          "totalInBracket": 601
+        },
+        {
+          "bracketName": "Male",
+          "bracketOrder": 11,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "M",
+          "bracketType": "SEX",
+          "id": 1927884,
+          "isPrimary": true,
+          "rank": 1,
+          "totalAthletes": 311,
+          "totalInBracket": 487
+        }
+      ],
+      "chipTime": {
+        "timeInMillis": 43681000,
+        "timeUnit": "m"
+      },
+      "crossingDateTimeInMilliseconds": 1661033280380,
+      "distance": {
+        "distanceInMeters": 123759,
+        "distanceUnit": "mi"
+      },
+      "gunTime": {
+        "timeInMillis": 43681000,
+        "timeUnit": "m"
+      },
+      "intervalFull": false,
+      "intervalId": 424249,
+      "intervalName": "76.9mi_Start to Outward Bound In",
+      "intervalOrder": 11,
+      "intervalRaceType": "running",
+      "intervalType": "course",
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": 123759,
+          "distanceUnit": "mi"
+        },
+        "time": {
+          "timeInMillis": 43681000,
+          "timeUnit": "m"
+        },
+        "paceType": "pace"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": 43681000,
+        "timeUnit": "m"
+      }
+    },
+    {
+      "brackets": [
+        {
+          "bracketName": "Overall",
+          "bracketOrder": 1,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "ALL",
+          "bracketType": "OPEN",
+          "id": 1927874,
+          "isPrimary": false,
+          "rank": 1,
+          "totalAthletes": 364,
+          "totalInBracket": 601
+        },
+        {
+          "bracketName": "Male",
+          "bracketOrder": 11,
+          "bracketPublishResults": false,
+          "bracketRankType": "CHIP",
+          "bracketTag": "M",
+          "bracketType": "SEX",
+          "id": 1927884,
+          "isPrimary": true,
+          "rank": 1,
+          "totalAthletes": 301,
+          "totalInBracket": 487
+        }
+      ],
+      "chipTime": {
+        "timeInMillis": 50785000,
+        "timeUnit": "m"
+      },
+      "crossingDateTimeInMilliseconds": 1661040384380,
+      "distance": {
+        "distanceInMeters": 141300,
+        "distanceUnit": "mi"
+      },
+      "gunTime": {
+        "timeInMillis": 50785000,
+        "timeUnit": "m"
+      },
+      "intervalFull": false,
+      "intervalId": 424250,
+      "intervalName": "87.8mi_Start to May Queen In",
+      "intervalOrder": 12,
+      "intervalRaceType": "running",
+      "intervalType": "course",
+      "mostRecentInterval": false,
+      "pace": {
+        "distance": {
+          "distanceInMeters": 141300,
+          "distanceUnit": "mi"
+        },
+        "time": {
+          "timeInMillis": 50785000,
+          "timeUnit": "m"
+        },
+        "paceType": "pace"
+      },
+      "timeWithPenalties": {
+        "timeInMillis": 50785000,
+        "timeUnit": "m"
+      }
+    }
+  ],
+  "isProfilePublic": false,
+  "isValidEmail": true,
+  "isVirtual": false,
+  "lastName": "Macdonald",
+  "locality": "Fort Collins",
+  "maxAllowedTicks": 0,
+  "minAllowedTicks": 0,
+  "overallBracketRaceRankType": "CHIP",
+  "raceId": 174469,
+  "raceName": "LT100 Run",
+  "raceStartTime": {
+    "timeInMillis": 1660989600000,
+    "timeZone": "UTC"
+  },
+  "racerHasFinished": true,
+  "racerId": 0,
+  "racerStartTime": {
+    "timeInMillis": 1660989599380,
+    "timeZone": "US/Mountain"
+  },
+  "region": "Colorado",
+  "regionId": "CO",
+  "thirdPartyEntryId": 57710353,
+  "thirdPartyEventCourseId": 174469
+}

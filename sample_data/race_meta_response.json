@@ -1,0 +1,253 @@
+{
+  "eventId": 1018673,
+  "eventName": "2022 Leadville Trail 100 Run presented by La Sportiva",
+  "eventStatus": 1,
+  "eventCourseMetadata": [
+    {
+      "courseId": 2261827,
+      "distance": 161578,
+      "eventCourseEndDateTime": {
+        "timeInMillis": 1662429010000,
+        "timeZone": "UTC"
+      },
+      "eventCourseId": 2248652,
+      "eventCourseName": "LT100 Run",
+      "eventCourseStartDateTime": {
+        "timeInMillis": 1660989600000,
+        "timeZone": "UTC"
+      },
+      "isVirtual": false,
+      "metadata": {
+        "divisions": [
+          {
+            "id": 1927874,
+            "name": "Overall"
+          },
+          {
+            "id": 1927875,
+            "name": "Female"
+          },
+          {
+            "id": 1927876,
+            "name": "F0-19"
+          },
+          {
+            "id": 1927877,
+            "name": "F20-29"
+          },
+          {
+            "id": 1927878,
+            "name": "F30-39"
+          },
+          {
+            "id": 1927879,
+            "name": "F40-49"
+          },
+          {
+            "id": 1927880,
+            "name": "F50-59"
+          },
+          {
+            "id": 1927881,
+            "name": "F60-69"
+          },
+          {
+            "id": 1927882,
+            "name": "F70-79"
+          },
+          {
+            "id": 1927883,
+            "name": "F80-120"
+          },
+          {
+            "id": 1927884,
+            "name": "Male"
+          },
+          {
+            "id": 1927885,
+            "name": "M0-19"
+          },
+          {
+            "id": 1927886,
+            "name": "M20-29"
+          },
+          {
+            "id": 1927887,
+            "name": "M30-39"
+          },
+          {
+            "id": 1927888,
+            "name": "M40-49"
+          },
+          {
+            "id": 1927889,
+            "name": "M50-59"
+          },
+          {
+            "id": 1927890,
+            "name": "M60-69"
+          },
+          {
+            "id": 1927891,
+            "name": "M70-79"
+          },
+          {
+            "id": 1927892,
+            "name": "M80-120"
+          },
+          {
+            "id": 1927893,
+            "name": "1000 Mile Buckle"
+          },
+          {
+            "id": 1927894,
+            "name": "11 YR Jacket"
+          },
+          {
+            "id": 1927896,
+            "name": "First Timers"
+          },
+          {
+            "id": 1927897,
+            "name": "Last Ass"
+          },
+          {
+            "id": 1927898,
+            "name": "Leadman"
+          },
+          {
+            "id": 1927899,
+            "name": "Leadperson"
+          },
+          {
+            "id": 1927900,
+            "name": "Leadwoman"
+          },
+          {
+            "id": 1982592,
+            "name": "New Bracket"
+          },
+          {
+            "id": 1982590,
+            "name": "Non-Binary Overall"
+          },
+          {
+            "id": 1982593,
+            "name": "Para Female"
+          },
+          {
+            "id": 1982591,
+            "name": "Para Male"
+          }
+        ],
+        "intervals": [
+          {
+            "displayOrder": 1,
+            "distance": 161578,
+            "id": 424239,
+            "intervalType": "course",
+            "isFull": true,
+            "name": "Full Course"
+          },
+          {
+            "displayOrder": 2,
+            "distance": 20278,
+            "id": 424240,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "12.6mi_Start to May Queen"
+          },
+          {
+            "displayOrder": 3,
+            "distance": 37820,
+            "id": 424241,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "23.5mi_Start to Outward Bound OUT"
+          },
+          {
+            "displayOrder": 4,
+            "distance": 47154,
+            "id": 424242,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "29.3mi_Start to Half Pipe Out"
+          },
+          {
+            "displayOrder": 5,
+            "distance": 60994,
+            "id": 424243,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "37.9mi_Start to Twin Lakes Out"
+          },
+          {
+            "displayOrder": 6,
+            "distance": 70006,
+            "id": 424244,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "43.5mi_Start to Hope Pass Out"
+          },
+          {
+            "displayOrder": 7,
+            "distance": 80467,
+            "id": 424245,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "50mi_Start to Winfield"
+          },
+          {
+            "displayOrder": 8,
+            "distance": 90928,
+            "id": 424246,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "56.5mi_Start to Hope Pass In"
+          },
+          {
+            "displayOrder": 9,
+            "distance": 100584,
+            "id": 424247,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "62.5mi_Start to Twin Lakes In"
+          },
+          {
+            "displayOrder": 10,
+            "distance": 114424,
+            "id": 424248,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "71.1mi_Start to Half Pipe In"
+          },
+          {
+            "displayOrder": 11,
+            "distance": 123759,
+            "id": 424249,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "76.9mi_Start to Outward Bound In"
+          },
+          {
+            "displayOrder": 12,
+            "distance": 141300,
+            "id": 424250,
+            "intervalType": "course",
+            "isFull": false,
+            "name": "87.8mi_Start to May Queen In"
+          }
+        ]
+      },
+      "raceType": "running"
+    }
+  ],
+  "eventStartDateTime": {
+    "timeInMillis": 1660989540000,
+    "timeZone": "UTC"
+  },
+  "eventEndDateTime": {
+    "timeInMillis": 1662429010000,
+    "timeZone": "UTC"
+  }
+}

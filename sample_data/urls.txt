@@ -1,0 +1,7 @@
+'https://www.athlinks.com/event/33913/results/Event/1018673'
+'https://www.athlinks.com/event/33913/results/Event/1018673/Results'
+'https://www.athlinks.com/event/33913/results/Event/1018673/Course/2248652/Bib/1'
+'https://results.athlinks.com/event/1018673'
+'https://results.athlinks.com/event/1018673?from=100&limit=100'
+'https://results.athlinks.com/metadata/event/1018673'
+'https://results.athlinks.com/individual?bib=1&eventId=1018673&eventCourseId=2248652'
