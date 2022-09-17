@@ -8,8 +8,8 @@ from urllib.parse import urlparse, parse_qs
 
 import scrapy
 
-from scraper import items
-from scraper.spiders import race
+from scrapy_athlinks import items
+from scrapy_athlinks.spiders import race
 
 
 RACE_ID = 4984

@@ -15,8 +15,10 @@ import os
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 
-from scraper import items
-# from scrapy.exporters import JsonItemExporter
+from scrapy_athlinks import items
+
+
+DEFAULT_DATA_FNAME = 'race.json'
 
 
 class SingleJsonWriterPipeline:
@@ -41,20 +43,20 @@ class SingleJsonWriterPipeline:
   """
   file = None
 
-  def __init__(self, dir_out=''):
-    self.dir_out = dir_out
+  def __init__(self, path_out=DEFAULT_DATA_FNAME):
+    self.path_out = path_out
 
   @classmethod
   def from_crawler(cls, crawler):
     return cls(
-      dir_out=crawler.settings.get('DIR_OUT')
+      path_out=crawler.settings.get('PATH_OUT', DEFAULT_DATA_FNAME)
     )
 
   def open_spider(self, spider):
     self.items = {'athletes': []}
 
   def close_spider(self, spider):
-    self.file = open(os.path.join(self.dir_out, f'{spider.event_id}_race.json'), 'w')
+    self.file = open(self.path_out, 'w')
     self.file.write(json.dumps(
       self.items,
       indent=2
