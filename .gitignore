@@ -1,5 +1,10 @@
-data/
 env/
-NOTES.md
+build/
+dist/
 __pycache__/
 *.pyc
+*.egg-info
+data/
+leadville/
+horsetooth/
+NOTES.md

@@ -4,7 +4,7 @@ from urllib.parse import urlparse, parse_qs
 
 from scrapy import FormRequest, Request, Spider
 
-from scraper.items import AthleteItem, AthleteSplitItem, RaceItem
+from scrapy_athlinks.items import AthleteItem, AthleteSplitItem, RaceItem
 
 
 MAX_RESULT_LIMIT = 100  # As high as Athlinks will accept
@@ -69,11 +69,8 @@ class RaceSpider(Spider):
 
   def parse_athlete(self, response):
     """
-    TODO:
-      * Consider making multiple 'split' items within the 'athlete'
-        (requires making use of `items.py`)
-        https://stackoverflow.com/questions/42610814/scrapy-yield-items-as-sub-items-in-json
-      * Consider adding more fields, see all available in `sample_individual_response.py`
+    Ref:
+      https://stackoverflow.com/questions/42610814/scrapy-yield-items-as-sub-items-in-json
     """
     jsonresponse = json.loads(response.text)
     
@@ -125,7 +122,10 @@ def json_to_race_item(jsonresponse):
 
 
 def create_race_page_request(race_spider, first_result_num=0):
-  """I think this could go back inside the spider as a self method too."""
+  """
+  
+  NOTE: I think this could go back inside the spider as an instance method too.
+  """
   # CYA
   first_result_str = str(first_result_num) if first_result_num is not None else '0'
 
