@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/github/license/aaron-schroeder/athlinks-scraper-scrapy)](LICENSE)
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-3810/)
+[![PyPI](https://img.shields.io/pypi/v/scrapy-athlinks.svg)](https://pypi.python.org/pypi/scrapy-athlinks/)
 
 <!--## Documentation
 
@@ -29,7 +30,7 @@ Scrapy can be operated entirely from python scripts.
 
 #### Installation
 
-The package is available on [PyPi](https://pypi.org/project/activereader) and can be installed with `pip`:
+The package is available on [PyPi](https://pypi.org/project/scrapy-athlinks) and can be installed with `pip`:
 
 ```sh
 pip install scrapy-athlinks
